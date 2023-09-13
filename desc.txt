@@ -1,1 +1,3 @@
-This project is a fundamental YouTube Video Downloader that is currently under development. At present, it has the capability to download any video from YouTube. However, please note that videos with a resolution higher than 720p may not include audio in the current version.
+This project is a fundamental YouTube Video Downloader that is currently under development. 
+At present, it has the capability to download any video from YouTube. 
+However, please note that videos with a resolution higher than 720p may not include audio in the current version.
